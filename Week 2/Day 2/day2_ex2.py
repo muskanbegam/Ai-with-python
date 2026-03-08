@@ -11,4 +11,7 @@ print(f"Filterred Dataset:\n{dataset}")
 #Calculate summary stats
 print(f"Sum of the dataset: {np.sum(dataset)}")
 print(f"Mean mode of Dataset: {np.mean(dataset)}")
-print(f"Standard Diviation of the Dataset: {np.std(dataset)}")
+print(f"Standard Diviation of the D\ataset: {np.std(dataset)}")
+
+
+     
